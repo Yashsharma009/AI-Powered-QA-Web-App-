@@ -28,7 +28,9 @@ This web application leverages advanced language models and vector stores to del
 2. Open your web browser and navigate to `http://localhost:5000`
 3. Enter your query and get instant, accurate answers.
 
-blob:https://web.whatsapp.com/4bb8b84f-a6ba-45c8-a445-a2aefa25831c
+<img width="523" alt="image" src="https://github.com/Yashsharma009/INVESTMENT_BANKING_CHATBOT/assets/116294789/7cd285ab-e8d5-4955-b70d-c6008d2da0fb">
+
+<img width="536" alt="image" src="https://github.com/Yashsharma009/INVESTMENT_BANKING_CHATBOT/assets/116294789/a158895b-94a1-40fa-a7ee-abfa30e8b3fb">
 
 
 
